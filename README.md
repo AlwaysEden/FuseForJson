@@ -17,5 +17,5 @@ If build.sh, run.sh, and umount.sh is not executable mode, you need to command "
 ` 2. command ./run.sh`
 
 <h2>Information</h2>
-1. This project is based on branch hw5 of https://github.com/hongshin/OperatingSystem.git.
+1. This project is based on branch hw5 of https://github.com/hongshin/OperatingSystem.git. <div></div>
 2. cJSON.h and cJSON.c are based on https://github.com/DaveGamble/cJSON.git.
