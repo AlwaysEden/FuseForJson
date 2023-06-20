@@ -2,5 +2,5 @@ set -x
 
 mkdir zxc
 
-./fuseJson ./zxc
-#./fuseJson -d -f ./zxc
+./jsonfs ./zxc
+#./jsonfs -d -f ./zxc
